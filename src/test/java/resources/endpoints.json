@@ -1,0 +1,5 @@
+{
+  "loginEndpoint": "/v1/authentication",
+  "baseURI": "https://dev-api.urbuddi.com",
+  "addEmployeeURI": "/v1/TWL02/employee"
+}
